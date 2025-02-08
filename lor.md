@@ -6,3 +6,5 @@ The refence on Lorf of the Rings universe
 * Gendalf the Gray
 * Gollum
 * Saruman
+
+Author: Tolkien
