@@ -5,3 +5,4 @@ Kurs sostoit iz neskol'kih moduley:
 * Python
 * Statistika 
 * Git
+
