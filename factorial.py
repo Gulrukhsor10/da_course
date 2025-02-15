@@ -5,8 +5,11 @@
             result *= i
         return result
     else:
-        # Placeholder for recursive method
-        pass
+        in n ==0 or == 1:
+            return 1
+        else:
+            return n * factorial(n-1, method ='recursive')
+        
 
 if __name__ == "__main__":
     number = 5
